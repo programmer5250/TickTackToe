@@ -346,11 +346,3 @@ void MainWindow::on_actionGodMode_triggered()
     Player = 3;
 }
 
-/*
-hi spencer this is you high you need to create a class that connects to the backend of the game board so that you create
-instantances of the board. that can be uesd for move playback and win checking (?)
-then maybe start using void pointers for the class so data protection
-
-that would be pretty cool
-
-*/
